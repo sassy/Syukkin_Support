@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SyukkinSupport</string>
+    <string name="menu_settings">タイマー設定</string>
+    <string name="title_activity_syukkin_support">出勤サポート</string>
+    <string name="title_activity_settings">タイマー設定</string>
+
+</resources>
