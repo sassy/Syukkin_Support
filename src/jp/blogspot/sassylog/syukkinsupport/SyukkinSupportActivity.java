@@ -19,10 +19,12 @@ public class SyukkinSupportActivity extends Activity {
         setContentView(R.layout.activity_syukkin_support);
 
         String[] data = {
-                "窓は閉めましたか？",
-                "ガスの元栓は閉めましたか？",
-                "電気は消しましたか？",
-                "鍵はかけましたか？"
+                getString(R.string.checklist1),
+                getString(R.string.checklist2),
+                getString(R.string.checklist3),
+                getString(R.string.checklist4),
+                getString(R.string.checklist5),
+                getString(R.string.checklist6)
         };
 
         final ListView list = (ListView)findViewById(R.id.main_list);

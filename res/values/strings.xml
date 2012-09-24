@@ -5,4 +5,10 @@
     <string name="title_activity_syukkin_support">出勤サポート</string>
     <string name="title_activity_settings">タイマー設定</string>
 
+    <string name="checklist1">窓は閉めましたか？</string>
+    <string name="checklist2">ガスの元栓は閉めましたか？</string>
+    <string name="checklist3">電気は消しましたか？</string>
+    <string name="checklist4">エアコンは消えていますか？</string>
+    <string name="checklist5">(雨が降りそうなとき)傘は持ちましたか？</string>
+    <string name="checklist6">鍵はかけましたか？</string>
 </resources>
